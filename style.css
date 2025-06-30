@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+nav {
+    background-color: #00757b;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 15px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+p {
+    color: blue;
+    text-align: center;
+    font-size: 1.1em;
+}
+
+table {
+    margin: 0 auto;
+    margin-top: 30px;
+    border-collapse: collapse;
+    width: 90%;
+    text-align: center;
+    border: 1px solid #333;
+}
+
+th, td {
+    padding: 12px 15px;
+    border: 1px solid #333;
+}
+
+th {
+    background-color: #00757b;
+    color: white;
+}
